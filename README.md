@@ -1,6 +1,6 @@
 # [XR Head Stream](https://github.com/Mohammad-Elahi/XRHeadStreamApp/)
 
-XRHeadStreamApp is an advanced real-time head-tracking solution that streams head-tracking data from Meta Quest headsets to the Unity server.  Developed using Android NDK C++ and [Meta OpenXR SDK](https://developers.meta.com/horizon/downloads/package/oculus-openxr-mobile-sdk/), this application enables seamless wireless transmission of head-tracking data while maintaining Passthrough visualization for environmental awareness. This professional research tool was developed by Mohammad Elahi at [the Vodafone Chair for Mobile Communications Systems, TU Dresden.](https://www.vodafone-chair.org/) 
+XRHeadStream is an advanced real-time head-tracking solution that streams head-tracking data from Meta Quest headsets to the Unity server.  Developed using Android NDK C++ and [Meta OpenXR SDK](https://developers.meta.com/horizon/downloads/package/oculus-openxr-mobile-sdk/), this application enables seamless wireless transmission of head-tracking data while maintaining Passthrough visualization for environmental awareness. This professional research tool was developed by Mohammad Elahi at [the Vodafone Chair for Mobile Communications Systems, TU Dresden.](https://www.vodafone-chair.org/) 
 
 ## Overview
 
