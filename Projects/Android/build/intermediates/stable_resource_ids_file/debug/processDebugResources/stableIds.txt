@@ -1,5 +1,0 @@
-com.oculus.xrsamples.xrbodyfaceeyesocial:mipmap/ic_launcher_round = 0x7f030002
-com.oculus.xrsamples.xrbodyfaceeyesocial:mipmap/ic_launcher_foreground = 0x7f030001
-com.oculus.xrsamples.xrbodyfaceeyesocial:mipmap/ic_launcher = 0x7f030000
-com.oculus.xrsamples.xrbodyfaceeyesocial:color/ic_launcher_background = 0x7f020000
-com.oculus.xrsamples.xrbodyfaceeyesocial:string/app_name = 0x7f010000

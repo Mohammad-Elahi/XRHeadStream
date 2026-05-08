@@ -1,3 +1,0 @@
-ninja: Entering directory `A:\Mohammad\Android\XRHeadtracking\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\.cxx\Debug\5y4o3x93\arm64-v8a'
-[1/2] Building CXX object XrSamples/XrBodyFaceEyeSocial/CMakeFiles/xrbodyfaceeyesocial.dir/Src/main.cpp.o
-[2/2] Linking CXX shared module ..\..\..\..\build\intermediates\cxx\Debug\5y4o3x93\obj\arm64-v8a\libxrbodyfaceeyesocial.so

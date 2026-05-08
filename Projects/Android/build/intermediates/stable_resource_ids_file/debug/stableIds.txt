@@ -1,1 +1,0 @@
-com.oculus.xrsamples.xrbodyfaceeyesocial:string/app_name = 0x7f010000

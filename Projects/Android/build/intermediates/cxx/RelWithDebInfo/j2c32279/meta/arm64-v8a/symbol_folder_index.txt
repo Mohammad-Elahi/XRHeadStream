@@ -1,1 +1,0 @@
-A:\Mohammad\Android\XRHeadtracking\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\cxx\RelWithDebInfo\j2c32279\obj\arm64-v8a

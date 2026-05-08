@@ -1,1 +1,0 @@
-A:\Mohammad\Example\XRproject\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\cxx\Debug\4a28553p\obj\arm64-v8a

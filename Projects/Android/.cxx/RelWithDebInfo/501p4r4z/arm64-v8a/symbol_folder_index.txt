@@ -1,1 +1,0 @@
-A:\Mohammad\Android\XRproject_14.10, Predictor and Unity\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\cxx\RelWithDebInfo\501p4r4z\obj\arm64-v8a

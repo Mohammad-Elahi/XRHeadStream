@@ -1,7 +1,0 @@
-#Fri Nov 15 14:16:36 CET 2024
-base.0=A\:\\Mohammad\\Android\\XRprojectPredictor\\XRproject\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\0\\classes.dex
-base.1=A\:\\Mohammad\\Android\\XRprojectPredictor\\XRproject\\Samples\\XrSamples\\XrBodyFaceEyeSocial\\Projects\\Android\\build\\intermediates\\dex\\debug\\mergeProjectDexDebug\\9\\classes.dex
-path.0=0/classes.dex
-path.1=9/classes.dex
-renamed.0=classes.dex
-renamed.1=classes2.dex

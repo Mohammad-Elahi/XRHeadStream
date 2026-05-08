@@ -1,7 +1,0 @@
-com.oculus.xrsamples.xrbodyfaceeyesocial-pngs-0 A:\Mohammad\Android\XRprojectPredictor\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\generated\res\pngs\debug
-com.oculus.xrsamples.xrbodyfaceeyesocial-resValues-1 A:\Mohammad\Android\XRprojectPredictor\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\generated\res\resValues\debug
-com.oculus.xrsamples.xrbodyfaceeyesocial-packageDebugResources-2 A:\Mohammad\Android\XRprojectPredictor\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\incremental\debug\packageDebugResources\merged.dir
-com.oculus.xrsamples.xrbodyfaceeyesocial-packageDebugResources-3 A:\Mohammad\Android\XRprojectPredictor\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\incremental\debug\packageDebugResources\stripped.dir
-com.oculus.xrsamples.xrbodyfaceeyesocial-debug-4 A:\Mohammad\Android\XRprojectPredictor\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\build\intermediates\merged_res\debug\mergeDebugResources
-com.oculus.xrsamples.xrbodyfaceeyesocial-debug-5 A:\Mohammad\Android\XRprojectPredictor\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\src\debug\res
-com.oculus.xrsamples.xrbodyfaceeyesocial-XrBodyFaceEyeSocial-6 A:\Mohammad\Android\XRprojectPredictor\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\res

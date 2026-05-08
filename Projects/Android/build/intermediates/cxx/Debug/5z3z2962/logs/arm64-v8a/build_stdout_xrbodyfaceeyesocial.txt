@@ -1,2 +1,0 @@
-ninja: Entering directory `A:\Mohammad\Android\XRprojectPredictor\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\.cxx\Debug\5z3z2962\arm64-v8a'
-ninja: no work to do.

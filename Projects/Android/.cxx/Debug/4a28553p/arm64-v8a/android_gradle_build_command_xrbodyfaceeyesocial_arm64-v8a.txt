@@ -1,7 +1,0 @@
-Executable : C:\Users\Mohammad.Elahi\AppData\Local\Android\Sdk\cmake\3.10.2.4988404\bin\ninja.exe
-arguments : 
--C
-A:\Mohammad\Example\XRproject\XRproject\Samples\XrSamples\XrBodyFaceEyeSocial\Projects\Android\.cxx\Debug\4a28553p\arm64-v8a
-xrbodyfaceeyesocial
-jvmArgs : 
-
