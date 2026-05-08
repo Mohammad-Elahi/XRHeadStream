@@ -80,16 +80,16 @@ mohammad.elahi@mailbox.tu-dresden.de
 ## How to Cite
 If you use this software in your research, please cite it as follows:
 
-Elahi, M. (2024). XRHeadStreamApp: Real-time head tracking streaming solution for Meta Quest headsets. GitHub. https://github.com/Mohammad-Elahi/XRHeadStreamApp
+Elahi, M. (2024). XRHeadStreamApp: Real-time head tracking streaming solution for Meta Quest headsets. GitHub. https://github.com/Mohammad-Elahi/XR-Head-Stream
 
 **BibTeX:**
 ```bibtex
 @software{Elahi2024XRHeadStream,
     author = {Elahi, Mohammad},
-    title = {XRHeadStreamApp: Real-time head tracking streaming solution for Meta Quest headsets},
+    title = {XR-Head-Stream: Real-time head tracking streaming solution for Meta Quest headsets},
     year = {2024},
     publisher = {GitHub},
-    url = {https://github.com/Mohammad-Elahi/XRHeadStreamApp}, 
+    url = {https://github.com/Mohammad-Elahi/XR-Head-Stream}, 
     institution = {Vodafone Chair for Mobile Communications Systems, TU Dresden}
 }
 ```
